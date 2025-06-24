@@ -6812,6 +6812,10 @@ textarea.form-control-lg {
   z-index: 1020;
 }
 
+.grupo {
+  margin-bottom: 5%;
+}
+
 @media (min-width: 576px) {
   .sticky-sm-top {
     position: sticky;
